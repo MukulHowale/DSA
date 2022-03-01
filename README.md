@@ -8,6 +8,8 @@ https://leetcode.com/problems/reverse-string/
 ***
 # Greedy
 1. Perform Swapping And Searching (Easy)
+2. Shortest Unsorted Continuous Subarray (Medium)
+https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 ***
 # Dynamic Programing
 1. Height of trees (Medium)
