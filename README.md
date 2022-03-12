@@ -17,4 +17,5 @@ https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 # BFS
 1. Shortest path in binary matrix (medium)
 https://leetcode.com/problems/shortest-path-in-binary-matrix/
+2. Shortest path for knight moves from source to destination
 ***
